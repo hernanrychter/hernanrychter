@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Hernan Rychter. I have a Business Degree and more than 15 years experience developing good proyects and leading teams.
+- 👀 I’m interested in jumping into the Software Development Industry
+- 🌱 I’m always disposal to learn new Software Development Skills in order to achieve the highest performance as I can.
+- 📫 If you want to reach me, finde me at the following links 
+- www.linkedin.com/in/hernanrychter
+- hernanrychter@gmail.com

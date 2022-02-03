@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hernan Rychter. I have a Business Degree and more than 15 years experience developing proyects and leading teams.
-- 👀 I’m interested in jumping into the Software Development Industry
+- 👋 Hi, I’m Hernan Rychter. I’m from Argentina and I have a Business Degree and more than 15 years experience developing proyects and leading teams.
+- 👀 Since I discovered how passionated I am about software development, I’m interested in develope my professional career in IT Industry.
 - 🌱 I’m always disposal to learn new Software Development Skills in order to achieve the highest performance as I can.
-- 📫 If you want to reach me, finde me at the following links 
+- 📫 If you want to contact me, do it in the following links please and thanks for your time! 
 - www.linkedin.com/in/hernanrychter
 - hernanrychter@gmail.com

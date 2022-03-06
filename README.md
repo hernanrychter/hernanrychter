@@ -7,7 +7,7 @@
 
 
 ====================================================================================================================================================================
-=================================
+================
 
 - 👋 Hi and thanks for your visit, I’m Hernan Rychter. I’m from Argentina and I have a Business Degree and more than 15 years experience developing proyects and leading teams.
 - 👀 Since I discovered how passionated I am about software development, I’m interested in develope my professional career in IT Industry.

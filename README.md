@@ -1,4 +1,3 @@
-ENGLISH
 - 👋 Hi and thanks for your visit. I’m from Argentina and I have a Business Degree.
 - I have more than 10 years experience leading proyects and teams as Manager.
 - 👀 Since I discovered how passionated I am about software development, I’m interested in develope my professional career in IT Industry.
@@ -8,7 +7,7 @@ ENGLISH
 - hernanrychter@gmail.com
 
 
-ESPAÑOL
+
 - 👋 Hola y gracias por tu visita. Soy Argentino y tengo un titulo de Licenciatura en Administracion y Gestion Empresarial. 
 - Cuento con mas de 10 años de experiencia liderando proyectos y equipos de trabajo en puestos gerenciales.
 - 👀 Hace un tiempo descubri esta nueva pasion que es el desarrollo de Software, siendo mi interes desarrollarme como profesional en la industria IT.

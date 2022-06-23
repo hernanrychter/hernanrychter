@@ -1,4 +1,4 @@
-- 👋 Hi and thanks for your visit. I’m from Argentina. Since a while forming myself in the Full Stack career. and I have also a Business Degree.
+- 👋 Hi and thanks for your visit. I’m from Argentina. Since a while I'm forming myself in the Full Stack Developer career, and I have also a Business Degree.
 - I have more than 10 years experience leading proyects and teams as Manager.
 - 👀 Since I discovered how passionated I am about software development, I’m interested in develope my professional career in IT Industry.
 - 🌱 I’m always disposal to learn new Software Development Skills in order to achieve the highest performance as I can.
